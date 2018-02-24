@@ -1,2 +1,2 @@
 # Frogger
-Frogger type game for PTBO Game Jam 04
+PTBO Game Jam 04 - Teach Night Game

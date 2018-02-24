@@ -1,0 +1,19 @@
+
+
+Frogger Like 
+------------
+
+Player Controls (movement) 
+Enemy Controls (movement in forward for cars/ships)
+Spawn System for Enemy 
+Collisions 
+Loose Codidion 
+Win Condition 
+HUD
+Scoring 
+Cleanup 
+FSM
+Swap Out Art 
+
+
+
